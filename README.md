@@ -1,3 +1,3 @@
 > ##### Programming scripts from my senior engineering design project, which aims to classify between Parkinson's Disease and Essential Tremor in a simulated environment. A custom hand apparatus was built to mimic tremor characteristics from both neurological conditions, and then extract time-frequency domain features to make both qualitative and quantitative predictions.
->> ##### [My thesis paper for this project can be found here](https://works.swarthmore.edu/theses/916/)
+>> ##### My thesis paper for this project can be found in the About section.
 >> ##### Many thanks to my advisors Maggie Delano, Allan Moser, and Joseph Towles. This project would not be possible without their guidance, lectures, labs, check-ins, and patience above all.
